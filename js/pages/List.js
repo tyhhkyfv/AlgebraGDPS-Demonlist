@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps and cbf is also allowed)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
@@ -121,7 +121,13 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Once a level falls onto the Legacy List, we accept records for it anyways
+                    </p>
+                    <p>
+                       If the level is easy demon-insane demon you just need to show a screenshot with your attempt count in it
+                    </p>
+                    <p>
+                        If an insane demon is on the idl then you will need a recording for it (no exceptions) and for extreme demons you need a recording with clicks and raw footage (unless the level is an easy extreme thn raw fottage isn't required)
                     </p>
                 </div>
             </div>
